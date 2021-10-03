@@ -23,7 +23,7 @@ Practice using Selenium in conjunction with TestNG to write and execute tests on
 
 ### Built With
 
-- Java, Maven
+- Java, Maven, Chromedriver (94.0.4606.61)
 
 - [Selenium](https://github.com/SeleniumHQ/selenium),
 
