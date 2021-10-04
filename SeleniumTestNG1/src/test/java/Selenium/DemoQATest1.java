@@ -1,3 +1,7 @@
+/*
+ * DemoQATest1 - Test to verify the title of the homepage.
+ */
+
 package Selenium;
 
 import org.openqa.selenium.WebDriver;
@@ -6,6 +10,7 @@ import org.testng.Assert;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
+
 
 public class DemoQATest1 {
 	private WebDriver driver;
