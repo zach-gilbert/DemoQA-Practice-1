@@ -25,7 +25,7 @@ public class DemoQATest1 {
 	public void verifyHomepageTitle() {
 		/*
 		 * Checks the homepage title
-		 * Expected: pass
+		 * Expected result: pass
 		 */
 		
 		String expectedTitle = "ToolsQA";
@@ -41,7 +41,7 @@ public class DemoQATest1 {
 	public void verifyHomepageTitle2() {
 		/*
 		 * Checks the homepage title
-		 * Expected: fail
+		 * Expected result: fail
 		 */
 		
 		String expectedTitle = "QaStuff";
