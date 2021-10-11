@@ -16,7 +16,7 @@ public class DemoQATest1 {
 	private WebDriver driver;
 
 	@BeforeTest
-	public void setupTest() {
+	public void setupDriver() {
 		System.setProperty("webdriver.chrome.driver", "src\\test\\resources\\chromedriver.exe");
 		driver = new ChromeDriver();
 	}
